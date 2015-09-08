@@ -1,0 +1,40 @@
+50	what is the cheapest one way flight from columbus to indianapolis .
+18	is there a flight from memphis to los angeles .
+20	please show me the flights from chicago to detroit that arrive at six p.m. next tuesday .
+0	does united flight four seven four slash fourteen eighty four serve dinner .
+0	what kind of aircraft is american 's flight fifteen oh one that departs at six fifty nine p.m .
+3	can you tell me about the flights from saint petersburg to toronto again .
+0	i would like to leave on thursday morning may fifth before six a.m .
+1	how far is it from the airport to the city .
+3	show availability .
+17	show me northwest flights to detroit .
+2	show the flights .
+2	prices .
+11	list those flights that stop over in salt lake city .
+0	list these economy fares .
+1	what is e w r .
+0	list these city destinations .
+44	please list the flights leaving newark stopping over in seattle for approximately five hours and then on to san francisco .
+0	what area does canadian airlines international service .
+1	i want to leave before noon .
+6	how long is the stop in dallas on flight d l nine thirty one .
+0	count the number of flights between nine a.m. and twelve noon .
+0	please give me the number of flights that depart from lester b pearson international airport on april twenty fifth .
+0	how many flights leave from lester b pearson international airport between nine a.m. and twelve noon .
+32	i need the shortest evening flight from tampa to cincinnati .
+7	how far is the airport from new york 's la guardia to downtown .
+8	how much is the fare limousine san francisco to downtown .
+21	i need a flight from philadelphia to westchester county .
+10	what flights leave los angeles arriving in minneapolis .
+5	what is the cheapest ticket from memphis to miami .
+3	what flights leave boston to pittsburgh .
+10	what meals are served on flight h p five four .
+6	what airlines fly from toronto to detroit .
+9	i 'd like an afternoon flight .
+5	i 'd like to leave before eight o'clock at night .
+0	i 'd like to fly from buffalo to either orlando or long beach .
+0	i 'd like to fly out of chicago for less than a hundred fifty dollars round trip .
+0	i can only spend a hundred fifty dollars .
+13	i 'd like to leave on a saturday .
+11	list round trips .
+5	list saturday flights .
